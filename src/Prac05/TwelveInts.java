@@ -10,7 +10,7 @@ public class TwelveInts {
     }
     public static void reversed(int[] Array){
         int a = 11;
-        while (a>=0) {
+        while (a>=11) {
             System.out.print(Array[a] + " ");
             a = a - 1;
         }
