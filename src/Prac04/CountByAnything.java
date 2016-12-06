@@ -1,3 +1,5 @@
+package Prac04;
+
 import java.util.Scanner;
 
 /**
